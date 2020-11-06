@@ -1,0 +1,71 @@
+
+
+#header a:hover {
+       color:red;
+}
+#bg-image{
+    background:url("https://wallpaperaccess.com/full/1691682.jpg");
+    background-size:100%;
+    background-repeat:no-repeat;
+    min-height:500px;
+}
+#about{
+     margin:-200px;
+}
+.fa-instagram{
+          color: #3f729b;
+}
+.fa-twitter{
+             color:#00acee;
+}
+.fa-youtube{
+     color:	#FF0000;
+}
+.fa-linkedin{
+      color: #0e76a8 ;
+}
+#about span{
+           padding:10px 20px 10px 20px;
+           font-size: 30px;
+           border-radius:6px;
+}
+#about hr{
+          border-width:2px;
+          margin-top:6px;
+}
+.deepu1{
+        color:rebeccapurple;
+}
+.hero{
+       text-shadow:2px 2px 2px black;
+}
+#ability span
+       {
+    padding:10px 20px 10px 20px;
+}
+#ability hr
+      {
+    border-width:2px;
+    margin-top:6px;
+}
+#career Goals span{
+    padding:10px 20px 10px 20px;
+}
+#career Goals hr{
+    border-width:2px;
+    margin-top:6px;
+}
+.text-center{
+             text-shadow:2px 2px red;
+}
+ul li{
+     color:black;
+     font-size:20px;
+}
+#contect span{
+    padding:10px 20px 10px 20px;
+}
+#contect hr{
+    border-width:2px;
+    margin-top:6px;
+}
